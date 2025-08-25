@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Ayoola Olayemi",
+    "email": "ayoola@example.com",
+    "password": "admin123",
+    "role": "Admin"
+  },
+  {
+    "name": "Mentor John",
+    "email": "mentor@example.com",
+    "password": "mentor123",
+    "role": "Mentor"
+  },
+  {
+    "name": "Mentee Jane",
+    "email": "mentee@example.com",
+    "password": "mentee123",
+    "role": "Mentee"
+  }
+]
