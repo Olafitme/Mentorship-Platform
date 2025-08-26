@@ -1,3 +1,35 @@
+[Watch the project demo video](https://drive.google.com/file/d/1meS3JkSbRLXN5XPX5d2rHE3tSTYpVl3U/view?usp=sharing)
+# Mentorship Platform
+
+ Login information
+ 
+name"Ade Ayo"
+email"adeayo@g.com"
+password 123456
+role"mentor"
+
+name"Bayo Ife"
+email"bife@g.com"
+password 123456
+role"mentor"
+
+name"Bisi Ola"
+email"bisola@g.com"
+password 123456
+role"mente
+
+ame"Opeyemi Makinde"
+email"opemakin@gmail.com"
+password 123456
+role"mentee
+
+name"Ayoola  Olayemi"
+email"ayoyemi@gmail.com"
+password 123456
+role"admin"
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
